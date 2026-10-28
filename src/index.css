@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@theme {
+  --font-devanagari: 'Noto Sans Devanagari', 'Mukta', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-display: 'Yatra One', 'Noto Sans Devanagari', serif;
+  --color-kesari-50: #FFF8E1;
+  --color-kesari-100: #FFE0B2;
+  --color-kesari-200: #FFCC80;
+  --color-kesari-500: #F57C00;
+  --color-kesari-600: #EF6C00;
+  --color-kesari-700: #E65100;
+  --color-kesari-maroon: #8B2500;
+  --color-kesari-maroon-dark: #691B00;
+  --color-kesari-maroon-light: #A33005;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-devanagari);
+}
+
+/* Custom scrollbar in theme saffron */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #fbfbfb;
+}
+::-webkit-scrollbar-thumb {
+  background: #F57C00;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #E65100;
+}

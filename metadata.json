@@ -1,0 +1,6 @@
+{
+  "name": "केसरी ढोल ताशा पथक",
+  "description": "केसरी ढोल ताशा पथक - नाद केसरीचा, अभिमान महाराष्ट्राचा! महाराष्ट्राची संस्कृती, परंपरा, शिस्त आणि एकजूट यांचे प्रतीक.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
