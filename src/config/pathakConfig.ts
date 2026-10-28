@@ -95,7 +95,7 @@ export const PATHAK_CONFIG = {
     ],
     stats: [
       { number: "१५०+", label: "सक्रिय वादक" },
-      { number: "१ ले", label: "कोल्हापूर जिल्ह्यातील पहिले पथक" },
+      { number: "१५ वे", label: "कोल्हापूर जिल्ह्यातील पहिले पथक" },
       { number: "५०+", label: "भव्य मिरवणुका" },
       { number: "१००%", label: "अखंड समर्पण" },
     ],
